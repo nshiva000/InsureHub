@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_category"
+            android:icon="@drawable/ic_insert_chart_black_24dp"
+            android:title="Category" />
+        <item
+            android:id="@+id/nav_service_provider"
+            android:icon="@drawable/ic_group_add_black_24dp"
+            android:title="Service Provider" />
+        <item
+            android:id="@+id/nav_customer"
+            android:icon="@drawable/ic_people_black_24dp"
+            android:title="Customer" />
+
+        <item
+            android:id="@+id/nav_all_bills"
+            android:icon="@drawable/ic_content_paste_black_24dp"
+            android:title="All Bills" />
+
+        <item
+            android:id="@+id/nav_all_referals"
+            android:icon="@drawable/ic_content_paste_black_24dp"
+            android:title="All Referals" />
+
+        <item
+            android:id="@+id/nav_customer_request"
+            android:icon="@drawable/ic_add_to_photos_black_24dp"
+            android:title="Enquiries" />
+
+        <item
+            android:id="@+id/nav_add_rewards"
+            android:icon="@drawable/ic_add_to_photos_black_24dp"
+            android:title="Add Rewards" />
+
+        <item
+            android:id="@+id/nav_add_offers"
+            android:icon="@drawable/ic_add_to_photos_black_24dp"
+            android:title="Add Offers" />
+
+        <item
+            android:id="@+id/nav_upload_policy_details"
+            android:icon="@drawable/ic_add_to_photos_black_24dp"
+            android:title="Upload Policy Details" />
+        <item
+            android:id="@+id/nav_policy_request"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Policy Request" />
+
+        <item
+            android:id="@+id/nav_ads"
+            android:icon="@drawable/ic_photo_library_black_24dp"
+            android:title="Banner ADS" />
+    </group>
+
+</menu>

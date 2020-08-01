@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Insure Hub</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Admin</string>
+    <string name="nav_header_subtitle">insurehub@gmail.vom</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Logout</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+
+    <string name="string_internet_connection_not_available">Internet Connection Not Available</string>
+    <string name="string_some_thing_wrong">Something went wrong.</string>
+    <string name="internal_storage">Internal storage</string>
+    <string name="chooser_title">Choose Files</string>
+
+    <string name="make_an_order">Make an order</string>
+    <string name="dialog_title">Select Process</string>
+    <string name="ok_label">OK</string>
+    <string name="dismiss_label">Dismiss</string>
+    <string name="clear_all_label">Clear all</string>
+    <string name="title_activity_refer_and_earn_customer">ReferAndEarnCustomerActivity</string>
+    <string name="title_activity_maps_customer">Map</string>
+</resources>

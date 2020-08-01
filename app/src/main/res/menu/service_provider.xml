@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_service_provider_profile"
+            android:icon="@drawable/ic_person_black_24dp"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_service_provider_add_bills"
+            android:icon="@drawable/ic_add_to_photos_black_24dp"
+            android:title="Add Bills" />
+        <item
+            android:id="@+id/nav_service_provider_all_bills"
+            android:icon="@drawable/ic_content_paste_black_24dp"
+            android:title="All Bills" />
+        <item
+            android:id="@+id/nav_service_provider_all_customers"
+            android:icon="@drawable/ic_people_black_24dp"
+            android:title="All Customers" />
+
+        <item
+            android:id="@+id/nav_service_provider_enquiry"
+            android:icon="@drawable/ic_insert_chart_black_24dp"
+            android:title="Enquiry" />
+        <item
+            android:id="@+id/nav_service_provider_contact_us"
+            android:icon="@drawable/ic_content_paste_black_24dp"
+            android:title="Contact Us" />
+
+    </group>
+
+</menu>

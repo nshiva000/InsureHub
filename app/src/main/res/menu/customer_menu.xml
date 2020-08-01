@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/profile"
+            android:icon="@drawable/ic_person_black_24dp"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_customer_add_service"
+            android:icon="@drawable/ic_group_add_black_24dp"
+            android:title="Raise a request" />
+        <item
+            android:id="@+id/nav_customer_all_service"
+            android:icon="@drawable/ic_developer_board_black_24dp"
+            android:title="Your Requests" />
+        <item
+            android:id="@+id/nav_customer_my_rewards"
+            android:icon="@drawable/ic_group_add_black_24dp"
+            android:title="My Rewards" />
+        <item
+            android:id="@+id/nav_customer_my_policy"
+            android:icon="@drawable/ic_developer_board_black_24dp"
+            android:title="My Policy" />
+        <item
+            android:id="@+id/nav_customer_our_products"
+            android:icon="@drawable/ic_group_add_black_24dp"
+            android:title="Our Products" />
+        <item
+            android:id="@+id/nav_customer_offers"
+            android:icon="@drawable/ic_developer_board_black_24dp"
+            android:title="Offers" />
+        <item
+            android:id="@+id/nav_customer_services_near_by"
+            android:icon="@drawable/ic_insert_chart_black_24dp"
+            android:title="Services Near by" />
+        <item
+            android:id="@+id/nav_customer_service_partners"
+            android:icon="@drawable/ic_insert_chart_black_24dp"
+            android:title="Service Partners" />
+        <item
+            android:id="@+id/nav_customer_all_request"
+            android:icon="@drawable/ic_insert_chart_black_24dp"
+            android:title="Your Enquiries" />
+        <item
+            android:id="@+id/nav_customer_raise_request"
+            android:icon="@drawable/ic_content_paste_black_24dp"
+            android:title="Contact Us" />
+    </group>
+
+</menu>
